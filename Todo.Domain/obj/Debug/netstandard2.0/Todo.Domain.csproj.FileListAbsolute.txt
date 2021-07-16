@@ -1,0 +1,9 @@
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.deps.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csprojAssemblyReference.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb

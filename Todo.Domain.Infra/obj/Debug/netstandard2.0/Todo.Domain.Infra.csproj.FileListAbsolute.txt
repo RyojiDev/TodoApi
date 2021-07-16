@@ -1,0 +1,12 @@
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\TodoApi\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
